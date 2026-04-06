@@ -1,5 +1,13 @@
 #  About Me 😊
- Building SaaS products and real-world applications  <br> Open to collaborating on innovative tech ideas  <br> Exploring system design, scalability, and performance  <br> Learning advanced full-stack development & architecture  <br> Ask me about React, Next.js, and product building  <br> Fun fact: I focus on building products, not just writing code 
+<ul>
+  <li> Building SaaS products and real-world applications </li>
+  <li> Open to collaborating on innovative tech ideas </li>
+  <li> Exploring system design, scalability, and performance</li>
+  <li> Learning advanced full-stack development & architecture </li>
+  <li> Ask me about React, Next.js, and product building  </li>
+  <li> Fun fact: I focus on building products, not just writing code </li>
+</ul>
+
 
 
 ## 🌐 Socials:
