@@ -7,9 +7,9 @@
 A Full Stack Web Developer 🚀 from India.
 
 - 👨‍💻 MERN Stack Developer
-- 📚 Learning Web Development
+- 📚 Learning Something new everyday 
 - 💡 "Jack of all, Master of some."
-- 📫 Reach me: Instagram - anishchz
+
 
 
 ---
