@@ -14,12 +14,11 @@ A Full Stack Web Developer 🚀 from India.
 
 ---
 
-## 🚀 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,nextjs" />
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,nextjs,tailwind,git" />
+  </marquee>
 </p>
-
----
 
 
 ## 📫 Connect with Me
