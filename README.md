@@ -22,6 +22,7 @@ A Full Stack Web Developer 🚀 from India.
 ---
 
 
-## 🤝 Connect with Me
-- Instagram: anishchz 
+## 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%40your_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anischz)
+
 - Email: anishchz01@gmail.com
