@@ -24,3 +24,35 @@
 [![](https://visitcount.itsvg.in/api?id=Nishchz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Hi there, I'm Nishh 👋
+
+A Full Stack Web Developer 🚀 from India.
+
+- 👨‍💻 MERN Stack Developer
+- 📚 Learning Web Development
+- 💡 "Jack of all, Master of some."
+- 📫 Reach me: Instagram - @your_username
+- 🎤 Freelance Voice Over Artist
+
+---
+
+## 🚀 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,nextjs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+- LinkedIn: your_link
+- Instagram: your_link
+- Email: your_email
