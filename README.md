@@ -7,7 +7,7 @@
 A Full Stack Web Developer 🚀 from India.
 
 - 👨‍💻 MERN Stack Developer
-- 📚 Learning Something new everyday 
+- 📚 Learning something new everyday 
 - 💡 "Jack of all, Master of some."
 
 
