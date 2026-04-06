@@ -23,7 +23,10 @@ A Full Stack Web Developer 🚀 from India.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=your_username)
 ---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Lover;Open+Source+Enthusiast)
 
 ## 🤝 Connect with Me
 - Instagram: anishchz 
