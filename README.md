@@ -26,7 +26,7 @@ A Full Stack Web Developer 🚀 from India.
 
 ## 🚀 project stack
 
-<h3> 1 -> Ai Iterview Platform </h3>
+<h3> 1 - Ai Iterview Platform </h3>
 <ul>
   <li> 🔗 Live Demo: https://intera-by-nishh.vercel.app/ </li> 
   <li> 📂 Repository: https://github.com/Nishchz/intera </li>
