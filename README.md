@@ -24,7 +24,7 @@ A Full Stack Web Developer 🚀 from India.
 
 ---
 
-## 🚀 project stack
+## 🧑‍💻 Project stack
 
 <h3> 1 - Ai Interview Platform </h3>
 <ul>
