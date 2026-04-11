@@ -22,12 +22,16 @@ A Full Stack Web Developer 🚀 from India.
   </marquee>
 </p>
 
-## 🚀 AI Interview Platform
+---
 
-An AI-powered interview platform that simulates real interview scenarios, provides intelligent feedback, and helps users improve their communication and technical skills.
+## 🚀 project stack
 
-🔗 Live Demo: https://intera-by-nishh.vercel.app/  
-📂 Repository: https://github.com/Nishchz/intera
+<h3> Ai Iterview Platform </h3>
+<ul>
+  <li> 🔗 Live Demo: https://intera-by-nishh.vercel.app/ </li> 
+  <li> 📂 Repository: https://github.com/Nishchz/intera </li>
+</ul>
+
 
 
 ## 🤝 Connect with Me
