@@ -22,6 +22,13 @@ A Full Stack Web Developer 🚀 from India.
   </marquee>
 </p>
 
+## 🚀 AI Interview Platform
+
+An AI-powered interview platform that simulates real interview scenarios, provides intelligent feedback, and helps users improve their communication and technical skills.
+
+🔗 Live Demo: https://intera-by-nishh.vercel.app/  
+📂 Repository: https://github.com/Nishchz/intera
+
 
 ## 🤝 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%40anishchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anishchz)
