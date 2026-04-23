@@ -34,7 +34,7 @@ A Full Stack Web Developer 🚀 from India.
 <br/>
 <p align="center">
 
-<a href="YOUR_AI_LIVE_LINK" target="_blank">
+<a href=" https://intera-by-nishh.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge&"/>
 </a>
 
