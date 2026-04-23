@@ -26,14 +26,27 @@ A Full Stack Web Developer 🚀 from India.
 
 ## 🧑‍💻 Project stack
 
-<h3> 1 - Ai Interview Platform </h3>
+
+### 1 AI Interview Platform
+
+- AI-powered interview system with real-time feedback & smart analytics
+
+<br/>
 <p align="center">
-<a href="https://intera-by-nishh.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="YOUR_AI_LIVE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge&"/>
+</a>
+
+<a href="YOUR_AI_GITHUB_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/_VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<h3> 2- gsap macbook landing </h3>
+### 2 - GSAP MacBook Landing
+
+ - Premium Apple-style landing page with smooth GSAP animations 
+
 <p align="center">
 <a href="https://mackbook-by-nishh.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge"/>
