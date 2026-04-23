@@ -27,10 +27,9 @@ A Full Stack Web Developer 🚀 from India.
 ## 🧑‍💻 Project stack
 
 <h3> 1 - Ai Interview Platform </h3>
-<ul>
-  <li> 🔗 Live Demo: https://intera-by-nishh.vercel.app/ </li> 
-  <li> 📂 Repository: https://github.com/Nishchz/intera </li>
-</ul>
+<a href="https://intera-by-nishh.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=white" />
+</a>
 
 
 
