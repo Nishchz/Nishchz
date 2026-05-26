@@ -44,6 +44,7 @@ A Full Stack Web Developer 🚀 from India.
 
 
 ## 🤝 Connect with Me
- [!#[Linkdin](https://img.shields.io/badge/LinkedIn-Anish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-210aa23a7
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-210aa23a7)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishchz01@gmail.com?subject=Hey%20Nishh&body=I%20want%20to%20connect%20with%20you) 
