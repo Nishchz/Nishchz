@@ -1,64 +1,65 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Nishh!%20👋&fontSize=50&animation=twinkling" />
 
-# Hie there , I'm Nishh 👋
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Lover;Open+Source+Enthusiast)
-
-A Full Stack Web Developer 🚀 from India.
-
-- 👨‍💻 MERN Stack Developer
-- 📚 Learning something new everyday 
-- 💡 "Jack of all, Master of some."
-
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer+🚀;MERN+Stack+Lover+💙;Open+Source+Enthusiast+🔥;Building+the+Web+of+Tomorrow+🌐&center=true&width=500&height=50&font=Fira+Code&size=22" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <marquee>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,nextjs,tailwind,git" />
-  </marquee>
-</p>
+### 👨‍💻 About Me
+*   🚀 *Full Stack Web Developer* from India building high-performance, scalable applications.
+*   🧠 Constantly learning and evolving. "Jack of all, Master of some."
+*   🛠️ Specializing in the *MERN Stack* and building AI-driven applications.
+*   🌱 Currently exploring: Advanced Next.js architectures and Agentic AI.
 
 ---
 
-## 🧑‍💻 Project stack
+### ⚡ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,nextjs,tailwind,git,express,linux,bash,vscode&perline=7" />
+</div>
 
+---
 
-### 1 - Apple MacBook Landing Page
+### 🚀 Featured Projects
 
- - Premium Apple-style landing page with smooth GSAP animations 
+| 💻 Project | 📖 Description | 🔗 Links |
+| :--- | :--- | :--- |
+| **[Apple MacBook Landing Page](https://github.com/Nishchz/gsap_mackbook_landing)** | Premium Apple-style landing page with smooth GSAP scroll-triggered animations. | [🚀 Live Demo](https://mackbook-by-nishh.vercel.app) <br> [📂 View Repo](https://github.com/Nishchz/gsap_mackbook_landing) |
+| **[Agentic App Builder](https://github.com/Nishchz/Agentic-app-builder)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [🚀 Live Demo](https://mackbook-by-nishh.vercel.app) <br> [📂 View Repo](https://github.com/Nishchz/Agentic-app-builder) |
 
-<p align="center">
-<a href="https://mackbook-by-nishh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge"/>
-</a>
+---
 
-<a href="https://github.com/Nishchz/gsap_mackbook_landing" target="_blank">
-  <img src="https://img.shields.io/badge/_VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+### 📊 GitHub Activity
 
-### 2 - Agentic App Builder
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nishh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchz&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishh's Streak" />
+</div>
 
- - Turn full-stack concepts into live, deployable applications with a single prompt.
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<p align="center">
-<a href="https://mackbook-by-nishh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge"/>
-</a>
+---
 
-<a href="https://github.com/Nishchz/Agentic-app-builder" target="_blank">
-  <img src="https://img.shields.io/badge/_VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+### 🤝 Let's Connect
 
-
-
-## 🤝 Connect with Me
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-210aa23a7)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishchz01@gmail.com?subject=Hey%20Nishh&body=I%20want%20to%20connect%20with%20you) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/anish-kumar-210aa23a7">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anishchz01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Nishchz">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
