@@ -35,7 +35,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nishh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchz&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishh's Streak" />
 </div>
 
@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
+    <img alt="" src="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
