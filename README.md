@@ -27,8 +27,9 @@
 
 | 💻 Project | 📖 Description | 🔗 Links |
 | :--- | :--- | :--- |
+| **[Agentic App Builder](https://github.com/Nishchz/Agentic-app-builder)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [🚀 Live Demo]() <br> [📂 View Repo](https://github.com/Nishchz/Agentic-app-builder) |
 | **[Apple MacBook Landing Page](https://github.com/Nishchz/gsap_mackbook_landing)** | Premium Apple-style landing page with smooth GSAP scroll-triggered animations. | [🚀 Live Demo](https://mackbook-by-nishh.vercel.app) <br> [📂 View Repo](https://github.com/Nishchz/gsap_mackbook_landing) |
-| **[Agentic App Builder](https://github.com/Nishchz/Agentic-app-builder)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [🚀 Live Demo](https://mackbook-by-nishh.vercel.app) <br> [📂 View Repo](https://github.com/Nishchz/Agentic-app-builder) |
+
 
 ---
 
