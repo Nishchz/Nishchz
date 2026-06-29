@@ -27,7 +27,7 @@ A Full Stack Web Developer 🚀 from India.
 ## 🧑‍💻 Project stack
 
 
-### 1 - GSAP MacBook Landing
+### 1 - Apple MacBook Landing Page
 
  - Premium Apple-style landing page with smooth GSAP animations 
 
@@ -50,7 +50,7 @@ A Full Stack Web Developer 🚀 from India.
   <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Nishchz/gsap_mackbook_landing" target="_blank">
+<a href="https://github.com/Nishchz/Agentic-app-builder" target="_blank">
   <img src="https://img.shields.io/badge/_VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
