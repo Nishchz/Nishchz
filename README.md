@@ -41,6 +41,20 @@ A Full Stack Web Developer 🚀 from India.
 </a>
 </p>
 
+### 2 - Agentic App Builder
+
+ - Turn full-stack concepts into live, deployable applications with a single prompt.
+
+<p align="center">
+<a href="https://mackbook-by-nishh.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Nishchz/gsap_mackbook_landing" target="_blank">
+  <img src="https://img.shields.io/badge/_VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 
 
 ## 🤝 Connect with Me
