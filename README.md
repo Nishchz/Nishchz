@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anish%20Kumar%20|%20Software%20Engineer&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nishh%20|%20Software%20Engineer&fontSize=40&animation=twinkling" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer+🚀;Distributed+Systems+&amp;+AI+Architectures+🌐;Open+Source+Contributor+🔥&center=true&width=600&height=40&font=Fira+Code&size=20" alt="Typing SVG" />
@@ -51,6 +51,22 @@
 | **[Apple MacBook Experience](https://github.com/Nishchz/gsap_mackbook_landing)** | High-fidelity interactive UI engineering leveraging hardware-accelerated animations via GSAP and precise scroll-triggered timelines. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) |
 
 ---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchz&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishh's Streak" />
+</div>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
+    <img alt="" src="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ### 🤝 Strategic Collaboration & Networking
 
