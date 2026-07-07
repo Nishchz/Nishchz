@@ -1,60 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Nishh!%20👋&fontSize=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anish%20Kumar%20|%20Software%20Engineer&fontSize=40&animation=twinkling" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer+🚀;MERN+Stack+Lover+💙;Open+Source+Enthusiast+🔥;Building+the+Web+of+Tomorrow+🌐&center=true&width=500&height=50&font=Fira+Code&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer+🚀;Distributed+Systems+&amp;+AI+Architectures+🌐;Open+Source+Contributor+🔥&center=true&width=600&height=40&font=Fira+Code&size=20" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-*   🚀 *Full Stack Web Developer* from India building high-performance, scalable applications.
-*   🧠 Constantly learning and evolving. "Jack of all, Master of some."
-*   🛠️ Specializing in the *MERN Stack* and building AI-driven applications.
-*   🌱 Currently exploring: Advanced Next.js architectures and Agentic AI.
+### 🏛️ Executive Summary
+*   🚀 *Full Stack Software Engineer* based in India, specializing in building high-performance, enterprise-grade web applications and cloud architectures.
+*   🛠️ Deep expertise in modern JavaScript/TypeScript ecosystems (*MERN Stack & Next.js Production Systems*).
+*   🧠 Architecting the future of software with *Agentic AI* and browser-native compiler applications.
+*   ⚡ Focused on writing highly optimized, testable code, adhering to SOLID principles and clean architecture patterns.
 
 ---
 
-### ⚡ Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,nextjs,tailwind,git,express,linux,bash,vscode&perline=7" />
-</div>
+### 💻 Core Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Languages & Frameworks</strong></td>
+    <td align="center" width="25%"><strong>Backend & Database</strong></td>
+    <td align="center" width="25%"><strong>Architecture & Cloud</strong></td>
+    <td align="center" width="25%"><strong>Tools & Environment</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,bash&perline=2" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,vscode&perline=2" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Engineering Highlights
 
-| 💻 Project | 📖 Description | 🔗 Links |
+| Project | System Architecture & Capabilities | Deployment |
 | :--- | :--- | :--- |
-| **[Aurask](https://github.com/Nishchz/Aurask)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [ <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://agentic-app-builder-nishhh.vercel.app/) 
-| **[Apple MacBook Landing Page](https://github.com/Nishchz/gsap_mackbook_landing)** | Premium Apple-style landing page with smooth GSAP scroll-triggered animations. | [ <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) 
-
-
+| **[Aurask](https://github.com/Nishchz/Aurask)** | An AI-powered full-stack generation sandbox. Compiles and executes production-ready source code natively within the browser runtime environment using prompt-driven architectures. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://agentic-app-builder-nishhh.vercel.app/) |
+| **[Apple MacBook Experience](https://github.com/Nishchz/gsap_mackbook_landing)** | High-fidelity interactive UI engineering leveraging hardware-accelerated animations via GSAP and precise scroll-triggered timelines. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) |
 
 ---
 
-### 📊 GitHub Activity
+### 🤝 Strategic Collaboration & Networking
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchz&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishh's Streak" />
-</div>
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
-    <img alt="" src="https://raw.githubusercontent.com/Nishchz/Nishchz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
+  <p>Available for technical discussions, enterprise-level system architecture design, and open-source contributions.</p>
+  
   <a href="https://www.linkedin.com/in/anish-kumar-210aa23a7">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
