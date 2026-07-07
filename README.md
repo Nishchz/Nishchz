@@ -27,7 +27,7 @@
 
 | 💻 Project | 📖 Description | 🔗 Links |
 | :--- | :--- | :--- |
-| **[Agentic App Builder](https://github.com/Nishchz/Agentic-app-builder)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [ <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>]() 
+| **[Agentic App Builder](https://github.com/Nishchz/Agentic-app-builder)** | Turn full-stack concepts into live, deployable applications with a single prompt. | [ <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://agentic-app-builder-nishhh.vercel.app/) 
 | **[Apple MacBook Landing Page](https://github.com/Nishchz/gsap_mackbook_landing)** | Premium Apple-style landing page with smooth GSAP scroll-triggered animations. | [ <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) 
 
 
