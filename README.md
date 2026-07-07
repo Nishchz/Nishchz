@@ -9,7 +9,7 @@
 ---
 
 ### 🏛️ Executive Summary
-*   🚀 *Full Stack Software Engineer* based in India, specializing in building high-performance, enterprise-grade web applications and cloud architectures.
+*   🚀 *Full Stack Software Engineer* based in India, specializing in building high-performance, enterprise-grade applications and cloud architectures.
 *   🛠️ Deep expertise in modern JavaScript/TypeScript ecosystems (*MERN Stack & Next.js Production Systems*).
 *   🧠 Architecting the future of software with *Agentic AI* and browser-native compiler applications.
 *   ⚡ Focused on writing highly optimized, testable code, adhering to SOLID principles and clean architecture patterns.
