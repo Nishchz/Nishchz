@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nishh%20|%20Software%20Engineer&fontSize=40&animation=twinkling" />
+<img width="100%" alt="1856a4c754a1433180b6761f6155b5e9" src="https://github.com/user-attachments/assets/1cc2bc0b-1431-4ebe-8d5f-71e3f9b9a390" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer+🚀;Distributed+Systems+&amp;+AI+Architectures+🌐;Open+Source+Contributor+🔥&center=true&width=600&height=40&font=Fira+Code&size=20" alt="Typing SVG" />
-  </a>
-</div>
 
----
 
 ### 🏛️ Executive Summary
 *   🚀 *Full Stack Software Engineer* based in India, specializing in building high-performance, enterprise-grade applications and cloud architectures.
