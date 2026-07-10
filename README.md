@@ -41,13 +41,19 @@
 
 
 
+#### Mobile Application (React Native )
 | Project | System Architecture & Capabilities | Deployment |
 | :--- | :--- | :--- |
 | **[Livon](https://github.com/Nishchz/Livon)** | Engineered a scalable full-stack real estate platform with React Native and PostgreSQL, featuring secure MFA authentication. Includes interactive map-based search, geospatial listing management, and a robust admin dashboard for automated asset control| [ <img src="https://img.shields.io/badge/COMING-SOON-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>]() |
+
+#### Web Applications (React )
+| Project | System Architecture & Capabilities | Deployment |
+| :--- | :--- | :--- |
 | **[Aurask](https://github.com/Nishchz/Aurask)** | An AI-powered full-stack generation sandbox. Compiles and executes production-ready source code natively within the browser runtime environment using prompt-driven architectures. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>](https://agentic-app-builder-nishhh.vercel.app/) |
 | **[Apple MacBook Experience](https://github.com/Nishchz/gsap_mackbook_landing)** | High-fidelity interactive UI engineering leveraging hardware-accelerated animations via GSAP and precise scroll-triggered timelines. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) |
 
 ---
+
 
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
