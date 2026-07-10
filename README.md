@@ -42,7 +42,7 @@
 | Project | System Architecture & Capabilities | Deployment |
 | :--- | :--- | :--- |
 | **[Aurask](https://github.com/Nishchz/Aurask)** | An AI-powered full-stack generation sandbox. Compiles and executes production-ready source code natively within the browser runtime environment using prompt-driven architectures. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>](https://agentic-app-builder-nishhh.vercel.app/) |
-| **[Apple MacBook Experience](https://github.com/Nishchz/gsap_mackbook_landing)** | High-fidelity interactive UI engineering leveraging hardware-accelerated animations via GSAP and precise scroll-triggered timelines. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) |
+| **[Apple MacBook Experience](https://github.com/Nishchz/gsap_mackbook_landing)** | High-fidelity interactive UI engineering leveraging hardware-accelerated animations via GSAP and precise scroll-triggered timelines. | [ <img src="https://img.shields.io/badge/LIVE_PREVIEW-2ea44f ?style=for-the-badge&logo=vercel&logoColor=white"/>](https://mackbook-by-nishh.vercel.app) |
 
 ---
 
