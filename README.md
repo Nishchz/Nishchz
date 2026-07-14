@@ -41,10 +41,7 @@
 
 
 
-#### Mobile Application (  React Native <img src="https://skillicons.dev/icons?i=react" width="20" height="20" alt="React Native" /> )
-| Project | System Architecture & Capabilities | Deployment |
-| :--- | :--- | :--- |
-| **[Livon](https://github.com/Nishchz/Livon)** | Engineered a scalable full-stack real estate platform with React Native and PostgreSQL, featuring secure MFA authentication. Includes interactive map-based search, geospatial listing management, and a robust admin dashboard for automated asset control| [ <img src="https://img.shields.io/badge/COMING-SOON-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>]() |
+
 
 #### Web Applications (  React <img src="https://skillicons.dev/icons?i=react" width="20" height="20" alt="React" /> )
 | Project | System Architecture & Capabilities | Deployment |
